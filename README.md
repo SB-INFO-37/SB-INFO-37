@@ -1,7 +1,7 @@
 - 👋 -  Salut, c'est SB Informatique ! 
-- 👀 -  Ici on code un module de suivi client pour Dolibarr ! 
-- 🌱 -  Faut se remettre au PHP là non ?
-- 💞️ -  Effectivement...
+- 😎 -  Ici on code un module de suivi client pour Dolibarr ! 
+- 😒 -  Faut se remettre au PHP là non ?
+- 🐱‍👤 -  Effectivement...
 
 - 📫 sb-info-git@gmail.com 
 
