@@ -1,5 +1,5 @@
 - 👋 -  Salut, c'est SB Informatique ! 
-- 😎 -  Ici on code un module de suivi client pour Dolibarr ! 
+- 😎 -  Ici on code un module Dolibarr de suivi client / pc en Atelier !
 - 😒 -  Faut se remettre au PHP là non ?
 - 🐱‍👤 -  Effectivement...
 
